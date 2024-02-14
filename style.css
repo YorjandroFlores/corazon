@@ -27,6 +27,9 @@ body {
     top: 50%; /* Centra verticalmente el texto */
     transform: translateY(25%); /* Centra verticalmente el texto */
 }
+h2{
+    color: aliceblue;
+}
 
 @keyframes animHeart {
     0% {
