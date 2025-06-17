@@ -54,8 +54,12 @@ body {
     font-style: italic;
 }
 
-h1, h2 {
+h1{
     color: #f2e200;
+    margin: 5px 0;
+}
+h2{
+    color: #ffffff;
     margin: 5px 0;
 }
 
